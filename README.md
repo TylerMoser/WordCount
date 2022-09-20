@@ -13,4 +13,5 @@ interface supports passing both strings and files. There are several
 usage examples below.
 
 ex: java -jar ./target/wordcount-0.0.1-SNAPSHOT.jar file "Some text string"
+
 ex: java -jar ./target/wordcount-0.0.1-SNAPSHOT.jar file ./test.txt
