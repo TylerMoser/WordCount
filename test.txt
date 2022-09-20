@@ -1,0 +1,1 @@
+This is a text file that can be used to test the word count application. Of course you can use another file, or replace the contents of this file with any other text.
